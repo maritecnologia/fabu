@@ -1,0 +1,14 @@
+.t1{
+	position: absolute;
+	font-family: DJB Letter Game Tiles;
+	font-size: 43px;
+	left: 43%;
+}
+.vid{
+	position: absolute;
+	background: #145A32;
+	top: 35%;
+	left: 20%;
+	width: 850px;
+	height: 360px;
+}
